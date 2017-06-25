@@ -12,7 +12,7 @@ go to Languages
 
 define your Language
 	
-Import the [`IFCExpressLangaugeStyler.xml file`](NotePad_Styles/NotePad++IFCExpressLanguageStyler.xml) and [`IFCLangaugeStyler.xml file`](NotePad_Styles/NotePad++IFCLanguageStyler.xml)
+Import the [`IFCExpressLanguageStyler.xml file`](NotePad_Styles/NotePad++IFCExpressLanguageStyler.xml) and [`IFCLanguageStyler.xml file`](NotePad_Styles/NotePad++IFCLanguageStyler.xml)
 
 ![Screenshot](img/install.png) 
 	
