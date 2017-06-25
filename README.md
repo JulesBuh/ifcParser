@@ -1,9 +1,10 @@
 # Contents
 [IFC Express Notepad ++ Styler](https://github.com/JulesBuh/ifcParser#ifc-express-notepad--styler)
+
 [Grasshopper IFC Parser](https://github.com/JulesBuh/ifcParser#grasshopper-ifc-parser)
 
 
-# IFC Express Notepad ++ Styler
+## IFC Express Notepad ++ Styler
 
 To install in Notepad++
 
@@ -19,7 +20,7 @@ A preview of the styles and folding code is shown in the screenshot below
 	
 ![Screenshot](img/stylePreview.png) 
 
-# Grasshopper IFC Parser
+## Grasshopper IFC Parser
  [`ifcSchemaReader`](https://github.com/JulesBuh/ifcParser/ifcSchemaReader.ghuser) reads the ifc Schema and outputs the Entities in UPPERCase and types in as written in CamelCase
  requires [Python.gha](https://github.com/mcneel/ghpython)
  
