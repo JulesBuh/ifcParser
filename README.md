@@ -22,6 +22,8 @@ A preview of the styles and folding code is shown in the screenshot below
 
 ## Grasshopper IFC Parser
  [`ifcSchemaReader`](Grasshopper_Components/ifcSchemaReader.ghuser) reads the ifc Schema and outputs the Entities in UPPERCase and types in as written in CamelCase
- requires [Python.gha](https://github.com/mcneel/ghpython)
+ requires [Python.gha](https://github.com/mcneel/ghpython) based on the code written by [mvaerle](https://github.com/mvaerle/python-ifc)
+ 
+ ![Screenshot](img/GHScreenShot.png) 
  
  
