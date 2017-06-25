@@ -2,13 +2,13 @@
 
 To install in Notepad++
 
-	- go to Languages
+go to Languages
+
+define your Language
 	
-	- define your Language
-	
-	- Import
-	
-	- Open the [`IFCLangaugeStyler.xml file`](https://github.com/JulesBuh/ifcParser/NotePad++IFCLanguageStyler.xml)
+Import
+
+Open the [`IFCExpressLangaugeStyler.xml file`](https://github.com/JulesBuh/ifcParser/NotePad++IFCExpressLanguageStyler.xml)
 
 ![Screenshot](img/install.png) 
 	
