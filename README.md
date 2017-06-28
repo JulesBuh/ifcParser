@@ -28,5 +28,5 @@ A preview of the styles and folding code is shown in the screenshot below
  
   [`ifcFileReader`](Grasshopper_Components/WIP/ifcParser.gh) is the work area for development. A refinement of the fileParser has been written to begin to organise outputs by types which are grafted in the grasshopper environment. Standard grashopper components can then be used to display the geometry correctly.
  
- ![Screenshot file reader](img/GHScreenshot2.png)
+ ![Screenshot file reader](img/GHScreenShot2.png)
  
